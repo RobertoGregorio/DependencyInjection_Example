@@ -1,0 +1,15 @@
+C:\Users\Roberto\Desktop\Depency_Injection\Depency_Injection_Examples\bin\Debug\net5.0\Depency_Injection_Examples.exe
+C:\Users\Roberto\Desktop\Depency_Injection\Depency_Injection_Examples\bin\Debug\net5.0\Depency_Injection_Examples.deps.json
+C:\Users\Roberto\Desktop\Depency_Injection\Depency_Injection_Examples\bin\Debug\net5.0\Depency_Injection_Examples.runtimeconfig.json
+C:\Users\Roberto\Desktop\Depency_Injection\Depency_Injection_Examples\bin\Debug\net5.0\Depency_Injection_Examples.runtimeconfig.dev.json
+C:\Users\Roberto\Desktop\Depency_Injection\Depency_Injection_Examples\bin\Debug\net5.0\Depency_Injection_Examples.dll
+C:\Users\Roberto\Desktop\Depency_Injection\Depency_Injection_Examples\bin\Debug\net5.0\ref\Depency_Injection_Examples.dll
+C:\Users\Roberto\Desktop\Depency_Injection\Depency_Injection_Examples\bin\Debug\net5.0\Depency_Injection_Examples.pdb
+C:\Users\Roberto\Desktop\Depency_Injection\Depency_Injection_Examples\obj\Debug\net5.0\Depency_Injection_Examples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roberto\Desktop\Depency_Injection\Depency_Injection_Examples\obj\Debug\net5.0\Depency_Injection_Examples.AssemblyInfoInputs.cache
+C:\Users\Roberto\Desktop\Depency_Injection\Depency_Injection_Examples\obj\Debug\net5.0\Depency_Injection_Examples.AssemblyInfo.cs
+C:\Users\Roberto\Desktop\Depency_Injection\Depency_Injection_Examples\obj\Debug\net5.0\Depency_Injection_Examples.csproj.CoreCompileInputs.cache
+C:\Users\Roberto\Desktop\Depency_Injection\Depency_Injection_Examples\obj\Debug\net5.0\Depency_Injection_Examples.dll
+C:\Users\Roberto\Desktop\Depency_Injection\Depency_Injection_Examples\obj\Debug\net5.0\ref\Depency_Injection_Examples.dll
+C:\Users\Roberto\Desktop\Depency_Injection\Depency_Injection_Examples\obj\Debug\net5.0\Depency_Injection_Examples.pdb
+C:\Users\Roberto\Desktop\Depency_Injection\Depency_Injection_Examples\obj\Debug\net5.0\Depency_Injection_Examples.genruntimeconfig.cache

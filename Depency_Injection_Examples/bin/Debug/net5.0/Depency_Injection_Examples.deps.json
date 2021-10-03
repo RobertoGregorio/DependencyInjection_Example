@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Depency_Injection_Examples/1.0.0": {
+        "runtime": {
+          "Depency_Injection_Examples.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Depency_Injection_Examples/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
